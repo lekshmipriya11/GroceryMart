@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "601846077551",
+    "project_id": "sandslab-65df2",
+    "storage_bucket": "sandslab-65df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601846077551:android:4f29652484b8568ae7159a",
+        "android_client_info": {
+          "package_name": "com.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601846077551-rqkl4i0lko6jl3d4qe2odbag598a7b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA592H7CpRmruRGnbiij71Z_mi6lZxS5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601846077551-6vgdn2cpve1iiot5jot0vf9dsht3bjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601846077551:android:639700e598ac603ae7159a",
+        "android_client_info": {
+          "package_name": "com.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601846077551-rqkl4i0lko6jl3d4qe2odbag598a7b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA592H7CpRmruRGnbiij71Z_mi6lZxS5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601846077551-6vgdn2cpve1iiot5jot0vf9dsht3bjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601846077551:android:27deb2b2be6baca9e7159a",
+        "android_client_info": {
+          "package_name": "com.leads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601846077551-r3habojiiga6u6tv543jdq5qcttqhuh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leads",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "601846077551-rqkl4i0lko6jl3d4qe2odbag598a7b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA592H7CpRmruRGnbiij71Z_mi6lZxS5Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601846077551-6vgdn2cpve1iiot5jot0vf9dsht3bjp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
